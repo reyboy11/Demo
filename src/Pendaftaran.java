@@ -76,6 +76,7 @@ public class Pendaftaran {
 
             String hasil = pendaftaran(username, password, email);
             System.out.println("Test Case " + (i + 1) + ": " + hasil);
+            System.out.println("menyala");
         }
     }
 }
